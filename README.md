@@ -31,4 +31,12 @@ The goal is to help a supermarket mall owner understand their customers better, 
 4. Model Building
 
     ![image](https://github.com/user-attachments/assets/64c6bb68-1d1e-433f-ba52-9df9f17ac76c)
+   
+6. Cluster Interprtation
+
+   ![image](https://github.com/user-attachments/assets/f231b9f5-9199-4e4d-a835-101e010a7109)
+
+   ![image](https://github.com/user-attachments/assets/4cf7f4df-7b67-4b08-9693-a713a0be11ae)
+
+
 
